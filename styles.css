@@ -1,4 +1,7 @@
- .box {
+body{
+	width:300px;
+}
+.box {
       width: 300px;
       background-color: lightblue;
       border: 15px solid blue;
